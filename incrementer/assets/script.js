@@ -33,6 +33,6 @@ if(x < 0){
 } else if(x > 0){
     document.body.style.backgroundColor = `green`
 } else {
-    document.body.style.backgroundColor = `gray`
+    document.body.style.backgroundColor = `white`
 }
 }
